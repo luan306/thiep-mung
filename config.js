@@ -1,5 +1,5 @@
 const nameGirl = 'Thầy Cô';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = '';
 const eventName = 'Chúc Mừng 20-11';
 const titleCard = 'Tặng Tất Cả Thầy Cô';
 const contentCard = 'Chúc mừng thầy cô nhân Ngày Nhà giáo Việt Nam 20/11. Ở nơi phương trời xa, em xin kính chúc các thầy, các cô luôn vui khỏe, hạnh phúc. Chúc cho mọi lời chúc của tất cả học trò dành cho thầy cô đều trở thành hiện thực.';
